@@ -1,8 +1,8 @@
 import { connect } from "cloudflare:sockets";
 
 // Variables
-const rootDomain = "ezproject.workers.dev"; // Ganti dengan domain utama kalian
-const serviceName = "my"; // Ganti dengan nama workers kalian
+const rootDomain = "ezproject.web.id"; // Ganti dengan domain utama kalian
+const serviceName = "vnzz"; // Ganti dengan nama workers kalian
 const apiKey = "QcfvZMuTUydZFKjEcQfPnOXJHmW20CaX3bdn7Jzv"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "ivanardi19@gmail.com"; // Ganti dengan email yang kalian gunakan
 const accountID = "ae29801ac3664a1863c6fb5096e81689"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
